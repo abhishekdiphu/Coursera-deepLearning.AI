@@ -1,1 +1,1 @@
-Deeplearning.AI specialization
+Deeplearning.AI specialization from Coursera
